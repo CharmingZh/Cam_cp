@@ -1,0 +1,2 @@
+RGB - resolution: (1080, 1920, 4), dtype: uint8
+Depth - resolution: (576, 640), dtype: uint16

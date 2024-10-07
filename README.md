@@ -16,3 +16,7 @@ pip install matplotlib numpy
 - Put them in to `.../Azure-Kinect-Sensor-SDK\src\python\k4a\src\k4a\_libs`;
 - run the script `src/python/k4a/build_wheel.ps1`, get the `.whl` file in `build/`. (`powershell -ExecutionPolicy Bypass -File .\build_wheel.ps1`)
 - then in conda env and terminal ` pip install ..\src\python\k4a\build\k4a-0.0.2-py3-none-any.whl`
+
+### RealSense L515
+
+- `pip install pyrealsense2==2.54.2.5684`
